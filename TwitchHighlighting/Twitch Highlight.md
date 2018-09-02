@@ -4,15 +4,15 @@ A Twitch highlight capturing the entirety of a talk is needed for export and upl
 ## Video Producer
 1. On the Dashboard page for the Techlahoma channel, select **Video Producer**.
 
-! [Video Producer Dashboard] (https://github.com/techlahoma/broadcasting/blob/master/TwitchHighlighting/Dashboard.PNG)
+! [Video Producer Dashboard] (https://github.com/techlahoma/broadcasting/blob/master/TwitchHighlighting/Dashboard.png)
 
 2. Find the video to be highlighted, and click the **Highlight** button.
 
-! [Highlight Button] (https://github.com/techlahoma/broadcasting/blob/master/TwitchHighlighting/Highlight%20Button.PNG)
+! [Highlight Button] (https://github.com/techlahoma/broadcasting/blob/master/TwitchHighlighting/Highlight%20Button.png)
 
 ## Highlighter
 
-! [Highlighter Menu] (https://github.com/techlahoma/broadcasting/blob/master/TwitchHighlighting/Highlighter%20Menu.PNG)
+! [Highlighter Menu] (https://github.com/techlahoma/broadcasting/blob/master/TwitchHighlighting/Highlighter%20Menu.png)
 
 3. Click **New Highlight**.
 
@@ -22,7 +22,7 @@ A Twitch highlight capturing the entirety of a talk is needed for export and upl
 
 ## Highlight Edit Pane
 
-! [Highlight Edit Pane] (https://github.com/techlahoma/broadcasting/blob/master/TwitchHighlighting/Edit%20Highlight.PNG)
+! [Highlight Edit Pane] (https://github.com/techlahoma/broadcasting/blob/master/TwitchHighlighting/Edit%20Highlight.png)
 
 6. Name the highlight using the following format:
 
